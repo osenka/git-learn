@@ -1,2 +1,0 @@
-print("step1")
-print("finish")
